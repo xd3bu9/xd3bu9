@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-|bash|go|php|html5|css3|python|c|git|
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="30" height="30" style="background-color: #ffffff" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="30" height="30"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="30" height="30"/>|<img align="left" alt="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />|<img align="left" alt="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />|<img align="left" alt="Python" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>|<img align="left" alt="C" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>|<img align="left" alt="git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+|Bash|Go|php|HTML5|CSS3|Javascript|Python|C|Git|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="30" height="30" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="30" height="30"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="30" height="30"/>|<img align="left" alt="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />|<img  alt="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />|<img  alt="Python" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>|<img alt="Python" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>|<img alt="C" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>|<img  alt="git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <br />
 
 ### Operating Systems
